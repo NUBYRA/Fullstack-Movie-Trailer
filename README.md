@@ -1,6 +1,7 @@
 # Fullstack-Movie-Trailer
 
 All time top grossing movie trailer website
+
 Author: Nubyra Ahmed
 
 To run and view the movie trailer website, follow the below steps:
